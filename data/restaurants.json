@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "R001",
+    "name": "Tandoori Nights",
+    "cuisine": [
+      "Indian",
+      "North Indian"
+    ],
+    "tags": [
+      "family-friendly",
+      "vegetarian",
+      "spicy"
+    ],
+    "price_for_two": 435,
+    "rating": 4.5,
+    "location": "MG Road",
+    "feature_vector": [
+      0.54,
+      0.71,
+      0.15,
+      0.75
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Golden Dragon",
+    "cuisine": [
+      "Chinese",
+      "Sichuan"
+    ],
+    "tags": [
+      "noodles",
+      "spicy",
+      "family-friendly"
+    ],
+    "price_for_two": 1299,
+    "rating": 3.4,
+    "location": "MG Road",
+    "feature_vector": [
+      0.51,
+      0.38,
+      0.62,
+      0.2
+    ]
+  },
+  {
+    "id": "R003",
+    "name": "Little Italy",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "tags": [
+      "romantic",
+      "family-friendly",
+      "wood-fired"
+    ],
+    "price_for_two": 846,
+    "rating": 3.6,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.29,
+      0.53,
+      0.38,
+      0.3
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "El Sombrero",
+    "cuisine": [
+      "Mexican",
+      "Street Tacos"
+    ],
+    "tags": [
+      "spicy",
+      "casual",
+      "vegetarian"
+    ],
+    "price_for_two": 1386,
+    "rating": 3.5,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.76,
+      0.51,
+      0.67,
+      0.25
+    ]
+  },
+  {
+    "id": "R005",
+    "name": "The Garden Terrace",
+    "cuisine": [
+      "Continental",
+      "European"
+    ],
+    "tags": [
+      "grilled",
+      "family-friendly",
+      "fine-dining"
+    ],
+    "price_for_two": 1332,
+    "rating": 3.4,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.01,
+      0.27,
+      0.64,
+      0.2
+    ]
+  },
+  {
+    "id": "R006",
+    "name": "Sandwich Stop",
+    "cuisine": [
+      "Fast Food",
+      "Burgers"
+    ],
+    "tags": [
+      "casual",
+      "quick-bite",
+      "budget-friendly"
+    ],
+    "price_for_two": 719,
+    "rating": 3.9,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.28,
+      0.34,
+      0.31,
+      0.45
+    ]
+  },
+  {
+    "id": "R007",
+    "name": "Royal Thali",
+    "cuisine": [
+      "Indian",
+      "North Indian"
+    ],
+    "tags": [
+      "tandoor",
+      "vegetarian",
+      "family-friendly"
+    ],
+    "price_for_two": 1643,
+    "rating": 3.5,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.69,
+      0.99,
+      0.81,
+      0.25
+    ]
+  },
+  {
+    "id": "R008",
+    "name": "Dragon Bowl",
+    "cuisine": [
+      "Chinese",
+      "Cantonese"
+    ],
+    "tags": [
+      "noodles",
+      "family-friendly",
+      "wok-tossed"
+    ],
+    "price_for_two": 1876,
+    "rating": 4.5,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.41,
+      0.21,
+      0.93,
+      0.75
+    ]
+  },
+  {
+    "id": "R009",
+    "name": "Pasta Vino",
+    "cuisine": [
+      "Italian",
+      "Pasta"
+    ],
+    "tags": [
+      "family-friendly",
+      "cheesy",
+      "wood-fired"
+    ],
+    "price_for_two": 1311,
+    "rating": 4.8,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.06,
+      0.6,
+      0.63,
+      0.9
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "Chili Con Carne",
+    "cuisine": [
+      "Mexican",
+      "Street Tacos"
+    ],
+    "tags": [
+      "casual",
+      "tangy",
+      "spicy"
+    ],
+    "price_for_two": 655,
+    "rating": 4.5,
+    "location": "MG Road",
+    "feature_vector": [
+      0.53,
+      0.53,
+      0.27,
+      0.75
+    ]
+  },
+  {
+    "id": "R011",
+    "name": "The Oak Room",
+    "cuisine": [
+      "Continental",
+      "Grill"
+    ],
+    "tags": [
+      "grilled",
+      "romantic",
+      "family-friendly"
+    ],
+    "price_for_two": 1193,
+    "rating": 4.0,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.26,
+      0.25,
+      0.56,
+      0.5
+    ]
+  },
+  {
+    "id": "R012",
+    "name": "Crispy Bites",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "budget-friendly",
+      "family-friendly",
+      "quick-bite"
+    ],
+    "price_for_two": 938,
+    "rating": 3.8,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.46,
+      0.59,
+      0.43,
+      0.4
+    ]
+  },
+  {
+    "id": "R013",
+    "name": "Spice Route",
+    "cuisine": [
+      "Indian",
+      "North Indian"
+    ],
+    "tags": [
+      "tandoor",
+      "family-friendly",
+      "curry"
+    ],
+    "price_for_two": 846,
+    "rating": 3.2,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.58,
+      0.5,
+      0.38,
+      0.1
+    ]
+  },
+  {
+    "id": "R014",
+    "name": "Noodle Bar",
+    "cuisine": [
+      "Chinese",
+      "Cantonese"
+    ],
+    "tags": [
+      "family-friendly",
+      "wok-tossed",
+      "spicy"
+    ],
+    "price_for_two": 1189,
+    "rating": 4.8,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.72,
+      0.4,
+      0.56,
+      0.9
+    ]
+  },
+  {
+    "id": "R015",
+    "name": "Bella Italia",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "tags": [
+      "family-friendly",
+      "cheesy",
+      "wood-fired"
+    ],
+    "price_for_two": 1376,
+    "rating": 3.6,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.03,
+      0.55,
+      0.66,
+      0.3
+    ]
+  },
+  {
+    "id": "R016",
+    "name": "Burrito Blvd",
+    "cuisine": [
+      "Mexican",
+      "Tex-Mex"
+    ],
+    "tags": [
+      "spicy",
+      "tangy",
+      "vegetarian"
+    ],
+    "price_for_two": 325,
+    "rating": 4.5,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.89,
+      0.51,
+      0.09,
+      0.75
+    ]
+  },
+  {
+    "id": "R017",
+    "name": "Amber Bistro",
+    "cuisine": [
+      "Continental",
+      "European"
+    ],
+    "tags": [
+      "family-friendly",
+      "grilled",
+      "romantic"
+    ],
+    "price_for_two": 692,
+    "rating": 4.1,
+    "location": "MG Road",
+    "feature_vector": [
+      0.13,
+      0.26,
+      0.29,
+      0.55
+    ]
+  },
+  {
+    "id": "R018",
+    "name": "Munch Box",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "casual",
+      "family-friendly",
+      "budget-friendly"
+    ],
+    "price_for_two": 967,
+    "rating": 5.0,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.42,
+      0.41,
+      0.44,
+      1.0
+    ]
+  },
+  {
+    "id": "R019",
+    "name": "Curry Leaf",
+    "cuisine": [
+      "Indian",
+      "South Indian"
+    ],
+    "tags": [
+      "vegetarian",
+      "spicy",
+      "tandoor"
+    ],
+    "price_for_two": 193,
+    "rating": 4.2,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.79,
+      0.5,
+      0.02,
+      0.6
+    ]
+  },
+  {
+    "id": "R020",
+    "name": "Wok This Way",
+    "cuisine": [
+      "Chinese",
+      "Sichuan"
+    ],
+    "tags": [
+      "spicy",
+      "wok-tossed",
+      "noodles"
+    ],
+    "price_for_two": 295,
+    "rating": 4.0,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.63,
+      0.29,
+      0.08,
+      0.5
+    ]
+  },
+  {
+    "id": "R021",
+    "name": "Trattoria Roma",
+    "cuisine": [
+      "Italian",
+      "Trattoria"
+    ],
+    "tags": [
+      "wood-fired",
+      "cheesy",
+      "romantic"
+    ],
+    "price_for_two": 1803,
+    "rating": 3.8,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.03,
+      0.57,
+      0.89,
+      0.4
+    ]
+  },
+  {
+    "id": "R022",
+    "name": "Cantina Loca",
+    "cuisine": [
+      "Mexican",
+      "Street Tacos"
+    ],
+    "tags": [
+      "tangy",
+      "vegetarian",
+      "spicy"
+    ],
+    "price_for_two": 1529,
+    "rating": 4.3,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.43,
+      0.59,
+      0.75,
+      0.65
+    ]
+  },
+  {
+    "id": "R023",
+    "name": "The Fork & Knife",
+    "cuisine": [
+      "Continental",
+      "European"
+    ],
+    "tags": [
+      "fine-dining",
+      "romantic",
+      "family-friendly"
+    ],
+    "price_for_two": 437,
+    "rating": 3.8,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.14,
+      0.46,
+      0.16,
+      0.4
+    ]
+  },
+  {
+    "id": "R024",
+    "name": "Burger Barn",
+    "cuisine": [
+      "Fast Food",
+      "Fried Chicken"
+    ],
+    "tags": [
+      "quick-bite",
+      "budget-friendly",
+      "family-friendly"
+    ],
+    "price_for_two": 341,
+    "rating": 4.9,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.28,
+      0.39,
+      0.1,
+      0.95
+    ]
+  },
+  {
+    "id": "R025",
+    "name": "Punjabi Tadka",
+    "cuisine": [
+      "Indian",
+      "Punjabi"
+    ],
+    "tags": [
+      "spicy",
+      "vegetarian",
+      "curry"
+    ],
+    "price_for_two": 154,
+    "rating": 5.0,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.96,
+      0.89,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "id": "R026",
+    "name": "Panda Kitchen",
+    "cuisine": [
+      "Chinese",
+      "Indo-Chinese"
+    ],
+    "tags": [
+      "wok-tossed",
+      "spicy",
+      "family-friendly"
+    ],
+    "price_for_two": 757,
+    "rating": 3.4,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.59,
+      0.42,
+      0.33,
+      0.2
+    ]
+  },
+  {
+    "id": "R027",
+    "name": "Napoli Pizzeria",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "tags": [
+      "cheesy",
+      "family-friendly",
+      "romantic"
+    ],
+    "price_for_two": 1179,
+    "rating": 4.8,
+    "location": "MG Road",
+    "feature_vector": [
+      0.05,
+      0.78,
+      0.56,
+      0.9
+    ]
+  },
+  {
+    "id": "R028",
+    "name": "Taco Fiesta",
+    "cuisine": [
+      "Mexican",
+      "Tex-Mex"
+    ],
+    "tags": [
+      "spicy",
+      "vegetarian",
+      "tangy"
+    ],
+    "price_for_two": 1532,
+    "rating": 4.7,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.46,
+      0.66,
+      0.75,
+      0.85
+    ]
+  },
+  {
+    "id": "R029",
+    "name": "Whitehall Grill",
+    "cuisine": [
+      "Continental",
+      "Bistro"
+    ],
+    "tags": [
+      "romantic",
+      "grilled",
+      "family-friendly"
+    ],
+    "price_for_two": 1008,
+    "rating": 4.3,
+    "location": "MG Road",
+    "feature_vector": [
+      0.16,
+      0.48,
+      0.46,
+      0.65
+    ]
+  },
+  {
+    "id": "R030",
+    "name": "Fry High",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "family-friendly",
+      "quick-bite",
+      "casual"
+    ],
+    "price_for_two": 960,
+    "rating": 3.3,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.43,
+      0.57,
+      0.44,
+      0.15
+    ]
+  },
+  {
+    "id": "R031",
+    "name": "Masala Junction",
+    "cuisine": [
+      "Indian",
+      "North Indian"
+    ],
+    "tags": [
+      "curry",
+      "spicy",
+      "tandoor"
+    ],
+    "price_for_two": 1251,
+    "rating": 3.4,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.57,
+      0.67,
+      0.6,
+      0.2
+    ]
+  },
+  {
+    "id": "R032",
+    "name": "Chopsticks",
+    "cuisine": [
+      "Chinese",
+      "Sichuan"
+    ],
+    "tags": [
+      "family-friendly",
+      "noodles",
+      "spicy"
+    ],
+    "price_for_two": 1047,
+    "rating": 4.7,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.61,
+      0.59,
+      0.48,
+      0.85
+    ]
+  },
+  {
+    "id": "R033",
+    "name": "Olive Garden Bistro",
+    "cuisine": [
+      "Italian",
+      "Trattoria"
+    ],
+    "tags": [
+      "cheesy",
+      "family-friendly",
+      "romantic"
+    ],
+    "price_for_two": 1508,
+    "rating": 3.2,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.08,
+      0.76,
+      0.73,
+      0.1
+    ]
+  },
+  {
+    "id": "R034",
+    "name": "Casa Mexicana",
+    "cuisine": [
+      "Mexican",
+      "Street Tacos"
+    ],
+    "tags": [
+      "vegetarian",
+      "tangy",
+      "spicy"
+    ],
+    "price_for_two": 1619,
+    "rating": 3.7,
+    "location": "HSR Layout",
+    "feature_vector": [
+      0.65,
+      0.4,
+      0.79,
+      0.35
+    ]
+  },
+  {
+    "id": "R035",
+    "name": "Copper Kettle",
+    "cuisine": [
+      "Continental",
+      "European"
+    ],
+    "tags": [
+      "family-friendly",
+      "fine-dining",
+      "romantic"
+    ],
+    "price_for_two": 157,
+    "rating": 3.7,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.19,
+      0.28,
+      0.0,
+      0.35
+    ]
+  },
+  {
+    "id": "R036",
+    "name": "Bun & Patty",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "budget-friendly",
+      "family-friendly",
+      "quick-bite"
+    ],
+    "price_for_two": 379,
+    "rating": 3.2,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.47,
+      0.53,
+      0.12,
+      0.1
+    ]
+  },
+  {
+    "id": "R037",
+    "name": "Dilli Darbar",
+    "cuisine": [
+      "Indian",
+      "Punjabi"
+    ],
+    "tags": [
+      "vegetarian",
+      "spicy",
+      "tandoor"
+    ],
+    "price_for_two": 896,
+    "rating": 4.8,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.95,
+      0.61,
+      0.4,
+      0.9
+    ]
+  },
+  {
+    "id": "R038",
+    "name": "Mainland China Express",
+    "cuisine": [
+      "Chinese",
+      "Cantonese"
+    ],
+    "tags": [
+      "spicy",
+      "noodles",
+      "family-friendly"
+    ],
+    "price_for_two": 1421,
+    "rating": 4.5,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.73,
+      0.59,
+      0.69,
+      0.75
+    ]
+  },
+  {
+    "id": "R039",
+    "name": "La Piazza",
+    "cuisine": [
+      "Italian",
+      "Pasta"
+    ],
+    "tags": [
+      "cheesy",
+      "wood-fired",
+      "romantic"
+    ],
+    "price_for_two": 1752,
+    "rating": 4.9,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.08,
+      0.71,
+      0.87,
+      0.95
+    ]
+  },
+  {
+    "id": "R040",
+    "name": "Salsa Verde",
+    "cuisine": [
+      "Mexican",
+      "Street Tacos"
+    ],
+    "tags": [
+      "spicy",
+      "casual",
+      "tangy"
+    ],
+    "price_for_two": 558,
+    "rating": 4.6,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.57,
+      0.63,
+      0.22,
+      0.8
+    ]
+  },
+  {
+    "id": "R041",
+    "name": "Vine & Barrel",
+    "cuisine": [
+      "Continental",
+      "European"
+    ],
+    "tags": [
+      "romantic",
+      "grilled",
+      "family-friendly"
+    ],
+    "price_for_two": 966,
+    "rating": 3.7,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.29,
+      0.28,
+      0.44,
+      0.35
+    ]
+  },
+  {
+    "id": "R042",
+    "name": "Quick Bite Diner",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "family-friendly",
+      "quick-bite",
+      "budget-friendly"
+    ],
+    "price_for_two": 1946,
+    "rating": 4.9,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.49,
+      0.59,
+      0.97,
+      0.95
+    ]
+  },
+  {
+    "id": "R043",
+    "name": "Saffron House",
+    "cuisine": [
+      "Indian",
+      "North Indian"
+    ],
+    "tags": [
+      "tandoor",
+      "curry",
+      "vegetarian"
+    ],
+    "price_for_two": 1642,
+    "rating": 4.6,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.8,
+      0.76,
+      0.81,
+      0.8
+    ]
+  },
+  {
+    "id": "R044",
+    "name": "Ling's Kitchen",
+    "cuisine": [
+      "Chinese",
+      "Cantonese"
+    ],
+    "tags": [
+      "noodles",
+      "wok-tossed",
+      "spicy"
+    ],
+    "price_for_two": 1601,
+    "rating": 3.9,
+    "location": "MG Road",
+    "feature_vector": [
+      0.76,
+      0.42,
+      0.78,
+      0.45
+    ]
+  },
+  {
+    "id": "R045",
+    "name": "Basil & Thyme",
+    "cuisine": [
+      "Italian",
+      "Pasta"
+    ],
+    "tags": [
+      "wood-fired",
+      "cheesy",
+      "romantic"
+    ],
+    "price_for_two": 1426,
+    "rating": 3.6,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.22,
+      0.52,
+      0.69,
+      0.3
+    ]
+  },
+  {
+    "id": "R046",
+    "name": "Casa Mexicana",
+    "cuisine": [
+      "Mexican",
+      "Street Tacos"
+    ],
+    "tags": [
+      "vegetarian",
+      "casual",
+      "tangy"
+    ],
+    "price_for_two": 1285,
+    "rating": 3.3,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.73,
+      0.45,
+      0.61,
+      0.15
+    ]
+  },
+  {
+    "id": "R047",
+    "name": "The Oak Room",
+    "cuisine": [
+      "Continental",
+      "European"
+    ],
+    "tags": [
+      "grilled",
+      "fine-dining",
+      "romantic"
+    ],
+    "price_for_two": 772,
+    "rating": 3.6,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.24,
+      0.38,
+      0.34,
+      0.3
+    ]
+  },
+  {
+    "id": "R048",
+    "name": "Sandwich Stop",
+    "cuisine": [
+      "Fast Food",
+      "Fried Chicken"
+    ],
+    "tags": [
+      "budget-friendly",
+      "casual",
+      "quick-bite"
+    ],
+    "price_for_two": 1196,
+    "rating": 3.9,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.53,
+      0.31,
+      0.57,
+      0.45
+    ]
+  },
+  {
+    "id": "R049",
+    "name": "Ashoka Bhavan",
+    "cuisine": [
+      "Indian",
+      "North Indian"
+    ],
+    "tags": [
+      "vegetarian",
+      "family-friendly",
+      "spicy"
+    ],
+    "price_for_two": 1801,
+    "rating": 3.4,
+    "location": "Koramangala",
+    "feature_vector": [
+      0.52,
+      0.99,
+      0.89,
+      0.2
+    ]
+  },
+  {
+    "id": "R050",
+    "name": "Wok This Way",
+    "cuisine": [
+      "Chinese",
+      "Indo-Chinese"
+    ],
+    "tags": [
+      "wok-tossed",
+      "family-friendly",
+      "spicy"
+    ],
+    "price_for_two": 1621,
+    "rating": 4.4,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.5,
+      0.26,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "id": "R051",
+    "name": "La Piazza",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "tags": [
+      "wood-fired",
+      "cheesy",
+      "family-friendly"
+    ],
+    "price_for_two": 1796,
+    "rating": 4.9,
+    "location": "MG Road",
+    "feature_vector": [
+      0.14,
+      0.62,
+      0.89,
+      0.95
+    ]
+  },
+  {
+    "id": "R052",
+    "name": "Chili Con Carne",
+    "cuisine": [
+      "Mexican",
+      "Tex-Mex"
+    ],
+    "tags": [
+      "tangy",
+      "spicy",
+      "casual"
+    ],
+    "price_for_two": 1517,
+    "rating": 4.1,
+    "location": "MG Road",
+    "feature_vector": [
+      0.7,
+      0.68,
+      0.74,
+      0.55
+    ]
+  },
+  {
+    "id": "R053",
+    "name": "The Garden Terrace",
+    "cuisine": [
+      "Continental",
+      "Bistro"
+    ],
+    "tags": [
+      "family-friendly",
+      "grilled",
+      "fine-dining"
+    ],
+    "price_for_two": 1987,
+    "rating": 3.3,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.14,
+      0.43,
+      0.99,
+      0.15
+    ]
+  },
+  {
+    "id": "R054",
+    "name": "Munch Box",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "family-friendly",
+      "budget-friendly",
+      "casual"
+    ],
+    "price_for_two": 1433,
+    "rating": 3.5,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.24,
+      0.31,
+      0.69,
+      0.25
+    ]
+  },
+  {
+    "id": "R055",
+    "name": "Mirchi Masala",
+    "cuisine": [
+      "Indian",
+      "Mughlai"
+    ],
+    "tags": [
+      "family-friendly",
+      "spicy",
+      "curry"
+    ],
+    "price_for_two": 458,
+    "rating": 3.5,
+    "location": "Indiranagar",
+    "feature_vector": [
+      0.85,
+      0.53,
+      0.17,
+      0.25
+    ]
+  },
+  {
+    "id": "R056",
+    "name": "Dragon Bowl",
+    "cuisine": [
+      "Chinese",
+      "Indo-Chinese"
+    ],
+    "tags": [
+      "wok-tossed",
+      "noodles",
+      "spicy"
+    ],
+    "price_for_two": 573,
+    "rating": 4.7,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.75,
+      0.43,
+      0.23,
+      0.85
+    ]
+  },
+  {
+    "id": "R057",
+    "name": "La Piazza",
+    "cuisine": [
+      "Italian",
+      "Trattoria"
+    ],
+    "tags": [
+      "wood-fired",
+      "romantic",
+      "cheesy"
+    ],
+    "price_for_two": 870,
+    "rating": 3.6,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.26,
+      0.78,
+      0.39,
+      0.3
+    ]
+  },
+  {
+    "id": "R058",
+    "name": "Burrito Blvd",
+    "cuisine": [
+      "Mexican",
+      "Tex-Mex"
+    ],
+    "tags": [
+      "tangy",
+      "spicy",
+      "casual"
+    ],
+    "price_for_two": 1042,
+    "rating": 4.0,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.57,
+      0.57,
+      0.48,
+      0.5
+    ]
+  },
+  {
+    "id": "R059",
+    "name": "The Garden Terrace",
+    "cuisine": [
+      "Continental",
+      "Bistro"
+    ],
+    "tags": [
+      "fine-dining",
+      "family-friendly",
+      "romantic"
+    ],
+    "price_for_two": 1424,
+    "rating": 4.1,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.18,
+      0.4,
+      0.69,
+      0.55
+    ]
+  },
+  {
+    "id": "R060",
+    "name": "Burger Barn",
+    "cuisine": [
+      "Fast Food",
+      "Sandwiches"
+    ],
+    "tags": [
+      "budget-friendly",
+      "quick-bite",
+      "casual"
+    ],
+    "price_for_two": 522,
+    "rating": 3.1,
+    "location": "Whitefield",
+    "feature_vector": [
+      0.36,
+      0.38,
+      0.2,
+      0.05
+    ]
+  }
+]

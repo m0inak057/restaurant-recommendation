@@ -1,0 +1,4 @@
+streamlit==1.33.0
+networkx==3.4.2
+matplotlib==3.10.7
+pytest==7.4.3
