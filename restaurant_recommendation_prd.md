@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Recommendation System — Project PRD & Technical Blueprint
 
-> **Status:** Stage 0 — Planning Phase  
-> **Team:** College Project  
+> **Status:** Completed
+> **Team:** College Project
 > **Last Updated:** July 2026
 
 ---
@@ -73,7 +73,7 @@ This is built as a **Python-based CLI + optional web UI** project for college su
                          │
               ┌──────────▼──────────┐
               │   Ranking Engine     │
-              │  (Max-Heap — O(log n)│
+              │ (Max-Heap — O(log n))│
               └──────────┬──────────┘
                          │
               ┌──────────▼──────────┐
@@ -182,18 +182,18 @@ Step 10 — Display Results
 
 ## 7. Module Breakdown
 
-| Module | File | DSA | Owner |
+| Module | File | DSA |
 |---|---|---|---|
-| Search / Autocomplete | `trie.py` | Trie | TBD |
-| User Profile Store | `profile_store.py` | HashMap | TBD |
-| Restaurant Data Store | `restaurant_store.py` | HashMap | TBD |
-| Similarity Graph | `graph.py` | Graph | TBD |
-| Graph Traversal | `traversal.py` | BFS + Dijkstra | TBD |
-| Scoring Engine | `scorer.py` | Cosine Similarity | TBD |
-| Ranking Engine | `ranker.py` | Max-Heap + Merge Sort | TBD |
-| Mock Data | `data/restaurants.json` | — | TBD |
-| Main Entry Point | `main.py` | — | TBD |
-| Web UI (optional) | `app.py` | — | TBD |
+| Search / Autocomplete | `trie.py` | Trie |
+| User Profile Store | `profile_store.py` | HashMap |
+| Restaurant Data Store | `restaurant_store.py` | HashMap |
+| Similarity Graph | `graph.py` | Graph |
+| Graph Traversal | `traversal.py` | BFS + Dijkstra |
+| Scoring Engine | `scorer.py` | Cosine Similarity |
+| Ranking Engine | `ranker.py` | Max-Heap + Merge Sort |
+| Mock Data | `data/restaurants.json` | — |
+| Main Entry Point | `main.py` | — |
+| Web UI (optional) | `app.py` | — |
 
 ---
 
